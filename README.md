@@ -13,7 +13,7 @@ Neste projeto, o desafio é construir este card de Incrição para NewsLetter e 
 <img src="./preview.jpg" alt="Preview" width="600" />
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Inscrição Para Newsletter](*)
+Acesse o resultado final do desafio clicando em [Inscrição Para Newsletter](https://front-end-mentor-inscricao-para-new.vercel.app/)
 
 ## 🧰 Tecnologias utilizadas
 
