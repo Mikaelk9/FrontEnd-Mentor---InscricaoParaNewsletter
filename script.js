@@ -5,11 +5,11 @@ const modal = document.getElementById('successModal');
 const card = document.querySelector('.card');
 
 function validateEmail(email) {
-    if (!email) return 'O e-mail é obrigatório';
+    if (!email) return 'Email is required';
 
     const isValidEmail = /^\S+@\S+\.\S+$/;
     if (!isValidEmail.test(email)) {
-        return 'Por favor, insira um e-mail válido';
+        return 'Please enter a valid email address';
     }
 
     return '';
