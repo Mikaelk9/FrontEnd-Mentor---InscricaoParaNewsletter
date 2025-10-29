@@ -9,6 +9,7 @@ Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a m
 ## O desafio
 
 Neste projeto, o desafio é construir este card de Incrição para NewsLetter e deixá-la o mais próximo possível do design original.
+
 Contendo:
  - Validação de e-mail
  - Modal de sucesso
