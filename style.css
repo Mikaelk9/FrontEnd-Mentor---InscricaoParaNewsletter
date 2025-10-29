@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: hsl(235, 18%, 26%);
+    background-color: #fff;
 }
 
 .card {
@@ -67,7 +67,8 @@ body {
     font-weight: 700;
     font-size: 13px;
 }
-.message_erro{
+
+.message_erro {
     font-weight: 700;
     font-size: 13px;
     color: hsl(4, 100%, 67%);
@@ -150,10 +151,14 @@ button:hover {
 }
 
 .hidden {
-  display: none !important;
+    display: none !important;
 }
 
 @media (min-width: 768px) {
+    body {
+        background-color: hsl(235, 18%, 26%);
+    }
+
     .card {
         display: flex;
         flex-direction: row-reverse;
@@ -176,15 +181,16 @@ button:hover {
         height: 530px;
         border-radius: 0;
         background-size: cover;
-        background-position: center ;
+        background-position: center;
         border-radius: 20px;
     }
-    .modal{
+
+    .modal {
         width: 500px;
         height: 400px;
         margin: 100px auto;
         border-radius: 25px;
         padding: 40px;
     }
-    
+
 }
